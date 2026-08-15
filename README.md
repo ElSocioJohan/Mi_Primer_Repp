@@ -1,7 +1,7 @@
 # ¡Hola! Soy Johan Hernandez 👋
 
 <p align="center">
-  <img src="https://komarev.com" alt="Visitas" />
+  <img src="https://media.tenor.com/TmP5VNwoMaoAAAAM/popcat-pop.gif" alt="Visitas" />
 </p>
 
 ### 🗒️ Sobre Mí
